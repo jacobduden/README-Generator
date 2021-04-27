@@ -1,4 +1,4 @@
-function generateMarkdown(data, githubInfo) {
+function generateMarkdown(data, githubInformation) {
   return `
 # **${data.title}**
 ${data.badge}

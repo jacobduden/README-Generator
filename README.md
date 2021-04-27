@@ -5,9 +5,6 @@ This is a node.js application that allows the user to create a custom tailored R
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
-- [Usage](#Usage)
-- [Licence](#Licence)
-- [Contributors](#Contributors)
 - [Test](#Test)
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
